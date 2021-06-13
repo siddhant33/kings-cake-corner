@@ -194,7 +194,7 @@ header #menu-bar{
 .about .image{
     flex:1 1 40rem;
     height:50rem;
-    background:url(../images/about-frame-img.png), url(../images/card.jpg) no-repeat;
+    background:url(../images/about-frame-img.png), url(../images/owner.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-blend-mode: screen;
